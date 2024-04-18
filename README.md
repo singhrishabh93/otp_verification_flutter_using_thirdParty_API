@@ -1,4 +1,4 @@
-# opt_verification_page
+# otp verification
 
 A new Flutter project.
 
